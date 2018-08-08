@@ -1,6 +1,6 @@
 # firefox-iframe-getcomputedstyle ChangeLog
 
-## 0.1.0 - 2018-xx-xx
+## 0.1.0 - 2018-08-08
 
 ### Added
 - Add core files.
