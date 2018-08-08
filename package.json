@@ -1,6 +1,6 @@
 {
   "name": "firefox-iframe-getcomputedstyle",
-  "version": "0.1.1-0",
+  "version": "1.0.0",
   "description": "Firefox iframe getComputedStyle support",
   "main": "index.js",
   "repository": {
