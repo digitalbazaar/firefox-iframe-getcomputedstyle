@@ -1,0 +1,20 @@
+{
+  "name": "firefox-iframe-getcomputedstyle",
+  "version": "0.1.0-0",
+  "description": "Firefox iframe getComputedStyle support",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/firefox-iframe-getcomputedstyle.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com/"
+  },
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/firefox-iframe-getcomputedstyle/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/firefox-iframe-getcomputedstyle"
+}
